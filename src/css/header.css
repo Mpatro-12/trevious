@@ -1,0 +1,31 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,200;0,400;1,600&family=Pushster&family=Roboto:ital,wght@0,100;0,900;1,400&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,200;0,400;1,600&family=Pushster&family=Roboto:ital,wght@0,100;0,900;1,400&family=Spline+Sans:wght@400;700&display=swap');
+.navbar{
+    background: transparent;
+    size: 5px;
+}
+.name{
+    color:cornflowerblue;
+    font-family: 'spline sans',sans-serif;
+    font-weight:bold;
+    font-size: larger;
+    font-style:normal;
+    letter-spacing:1.5px;
+
+}
+.name:hover{
+    color: cornflowerblue;
+}
+.btn{
+    
+    border: blueviolet;
+    border-width: 2px;
+    border-style: solid;
+}
+.login{
+    color: cornflowerblue;
+}
+.login:hover{
+    
+    color: cornflowerblue;
+}

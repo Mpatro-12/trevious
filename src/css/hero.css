@@ -1,0 +1,24 @@
+.hero {
+  min-height: 90vh;
+  color: #b58db6;
+}
+.start {
+  background-color: blueviolet;
+  color: #fff;
+}
+.start:hover {
+  border: cornflowerblue;
+  border-width: 2px;
+  border-style: solid;
+  color: blueviolet;
+  background-color: cornsilk;
+}
+.lets_start_button {
+  border: none;
+  border-radius: 0.25rem;
+  width: 18rem;
+  height: 3rem;
+  font-weight: 500;
+  font-size: 20px;
+  background-color: burlywood;
+}
